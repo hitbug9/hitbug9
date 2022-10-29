@@ -1,16 +1,28 @@
-### Hi there 👋
-
-<!--
-**hitbug9/hitbug9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there 👋
+Senior full-stack JavaScript Engineer with a focus on front-end frameworks such as React, Angular, and Vue.js, in addition to Node-powered back-end dovetailed with REST and GraphQL APIs. Contribute exceptional value as projects progress from start to finish while adding new features to existing products.
+## Technologies
+[![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![My Skills](https://skillicons.dev/icons?i=react&theme=light)](https://reactjs.org/)
+[![My Skills](https://skillicons.dev/icons?i=redux&theme=light)](https://redux.js.org/)
+[![My Skills](https://skillicons.dev/icons?i=next&theme=light)](https://nextjs.org/)
+[![My Skills](https://skillicons.dev/icons?i=angular&theme=light)](https://angular.io/)
+[![My Skills](https://skillicons.dev/icons?i=vue&theme=light)](https://vuejs.org/)
+[![My Skills](https://skillicons.dev/icons?i=ts&theme=light)](https://www.typescriptlang.org/)
+[![My Skills](https://skillicons.dev/icons?i=jquery&theme=light)](https://jquery.com/)
+[![My Skills](https://skillicons.dev/icons?i=webpack&theme=light)](https://webpack.js.org/)
+[![My Skills](https://skillicons.dev/icons?i=sass&theme=light)](https://sass-lang.com/)
+[![My Skills](https://skillicons.dev/icons?i=tailwind&theme=light)](https://tailwindcss.com/)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap&theme=light)](https://getbootstrap.com/)
+[![My Skills](https://skillicons.dev/icons?i=materialui&theme=light)](https://mui.com/)
+[![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://nodejs.org/en/)
+[![My Skills](https://skillicons.dev/icons?i=express&theme=light)](https://expressjs.com/)
+[![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://www.mongodb.com/)
+[![My Skills](https://skillicons.dev/icons?i=dynamodb&theme=light)](https://aws.amazon.com/dynamodb/)
+[![My Skills](https://skillicons.dev/icons?i=postgres&theme=light)](https://www.postgresql.org/)
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://www.mysql.com/)
+[![My Skills](https://skillicons.dev/icons?i=graphql&theme=light)](https://graphql.org/)
+[![My Skills](https://skillicons.dev/icons?i=aws&theme=light)](https://aws.amazon.com/)
+[![My Skills](https://skillicons.dev/icons?i=firebase&theme=light)](https://firebase.google.com/)
+[![My Skills](https://skillicons.dev/icons?i=heroku&theme=light)](https://www.heroku.com/)
+[![My Skills](https://skillicons.dev/icons?i=docker&theme=light)](https://www.docker.com/)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes&theme=light)](https://kubernetes.io/)
